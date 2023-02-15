@@ -3,7 +3,7 @@
 
 **1. Crea un fichero ej1.html donde se incluya una imagen con un enlace. Al hacer hover sobre la imagen esta se deberá mostrar en escala de grises.**
 
-**2. ¿Visualizas un borde azul en la imagen al añadirle el enlace? Dada la web https://www.browserling.com/ prueba el siguiente enlace en un navegador de IE 10 https://aprende-web.net/html/ejemplos/ejemplo11.html. ¿Cómo lo solucionarías para navegadores antiguos? Crea la solución en el fichero ej2.html y pruébalo en IE 10.**
+**2. ¿Visualizas un borde azul en la imagen al añadirle el enlace? Dada la web https://www.browserling.com/ prueba el siguiente enlace en un navegador de IE 10 https://aprende-web.net/html/ejemplos/ejemplo11.html. ¿Cómo lo solucionarías para navegadores antiguos?**
 
 **3. Crea un fichero ej3.html donde incluyas tres imágenes diferentes que encuentres en internet (licencia libre de uso) que se muestren según tres puntos de ruptura que definas.**
 
